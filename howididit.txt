@@ -1,0 +1,107 @@
+   43  kill -9 `ps -eo pid,command | grep 'gunicorn.*${moduleName:appName}' | grep -v grep | sort | head -1 | awk '{print $1}'`
+   44  ps -eo pid,command
+   45  clear
+   46  sudo supervisorctl stop
+   47  sudo supervisorctl stop gunicorn
+   48  sudo supervisorctl list
+   49  sudo supervisorctl 
+   50  sudo supervisorctl stop all
+   51  sudo supervisorctl 
+   52  sudo supervisorctl kill
+   53  sudo supervisorctl help
+   54  sudo supervisorctl shutdown
+   55  sudo supervisorctl
+   56  clear
+   57  l
+   58  bench start
+    1  ls
+    2  ll
+    3  ls -lia
+    4  clear
+    5  micro .history
+    6  micro .history.zsh
+    7  micro .keyboard.zsh
+    8  micro .zshrc
+    9  clear
+   10  reload
+   11  source ~/.zshrc
+   12  clear
+   13  ]l
+   14  clear
+   15  l
+   16  ls -liaf hi
+   17  micro .zshrc
+   18  ls
+   19  clear
+   20  nvm use 21
+   21  clear
+   22  ls
+   23  rm -rf bench-frappe
+   24  ls
+   25  rm -rf frappe-bench
+   26  ls
+   27  cd Documents
+   28  cd codehdd
+   29  cd frappe
+   30  ls
+   31  cd bench-frappe
+   32  ls
+   33  bench new-app lib-mgt
+   34  bench restart
+   35  cd /etc/supervisor/conf.d
+   36  ls
+   37  cat frappe-bench.conf
+   38  cat frappe-bench.conf | grep
+   39  cat frappe-bench.conf | grep frappe
+   40  cat frappe-bench.conf | grep frappe-web
+   41  ls
+   42  sudo supervisorctl
+   43  sudo supervisorctl restart
+   44  sudo supervisorctl restart all
+   45  sudo supervisorctl
+   46  cd ..
+   47  ls
+   48  cd 
+   49  ls
+   50  rm -rf frappe-bench
+   51  ls
+   52  cd Documents/codehdd/frappe/bench-frappe
+   53  l
+   54  clear
+   55  ls
+   56  ls apps/lib_mgt/
+   57  cat apps/lib_mgt/README.md
+   58  rm -rf apps/lib_mgt
+   59  clear
+   60  l
+   61  clear
+   62  alias l='ls'
+   63  clear
+   64  l
+   65  bench new-app lib-mgt
+   66  clear
+   67  bench new-app lib_mgt
+   68  sudo supervisorctl
+   69  bench new-site lib.localhost
+   70  cd ..
+   71  history >> howididit.txt
+   72  cd bench-frappe/n
+   73  cd bench-frappe/
+   74  ls
+   75  bench --site lib.localhost console
+   76  cd apps
+   77  ls
+   78  cd ..
+   79  clear
+   80  l
+   81  bench --site lib.localhost console
+   82  bench --app
+   83  bench --app lib_mgt
+   84  bench frappe --help
+   85  bench help
+   86  bench --help
+   87  bench --list-apps
+   88  bench list-apps
+   89  bench --site lib.localhost install-app lib_mgt\n
+   90  bench --site library.localhost mariadb
+   91  bench --site lib.localhost mariadb

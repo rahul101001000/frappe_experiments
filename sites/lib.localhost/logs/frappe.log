@@ -1,0 +1,201 @@
+2024-03-25 23:35:39,702 ERROR frappe New Exception collected in error log
+Site: lib.localhost
+Form Dict: {'dt': 'Builder Page', 'dn': 'page-fca11', 'method': 'get_page_data', 'args': '{}', 'cmd': 'run_doc_method'}
+2024-03-25 23:42:44,671 ERROR frappe New Exception collected in error log
+Site: lib.localhost
+Form Dict: {'dt': 'Builder Page', 'dn': 'page-fca11', 'method': 'get_page_data', 'args': '{}', 'cmd': 'run_doc_method'}
+2024-03-25 23:43:36,967 ERROR frappe New Exception collected in error log
+Site: lib.localhost
+Form Dict: {'dt': 'Builder Page', 'dn': 'page-fca11', 'method': 'get_page_data', 'args': '{}', 'cmd': 'run_doc_method'}
+2024-03-25 23:43:46,823 ERROR frappe New Exception collected in error log
+Site: lib.localhost
+Form Dict: {'dt': 'Builder Page', 'dn': 'page-fca11', 'method': 'get_page_data', 'args': '{}', 'cmd': 'run_doc_method'}
+2024-03-25 23:43:51,101 ERROR frappe New Exception collected in error log
+Site: lib.localhost
+Form Dict: {'dt': 'Builder Page', 'dn': 'page-fca11', 'method': 'get_page_data', 'args': '{}', 'cmd': 'run_doc_method'}
+2024-03-25 23:46:28,218 ERROR frappe New Exception collected in error log
+Site: lib.localhost
+Form Dict: {'dt': 'Builder Page', 'dn': 'page-fca11', 'method': 'get_page_data', 'args': '{}', 'cmd': 'run_doc_method'}
+2024-03-25 23:46:47,598 ERROR frappe New Exception collected in error log
+Site: lib.localhost
+Form Dict: {'dt': 'Builder Page', 'dn': 'page-fca11', 'method': 'get_page_data', 'args': '{}', 'cmd': 'run_doc_method'}
+2024-03-25 23:47:09,353 ERROR frappe New Exception collected in error log
+Site: lib.localhost
+Form Dict: {'dt': 'Builder Page', 'dn': 'page-fca11', 'method': 'get_page_data', 'args': '{}', 'cmd': 'run_doc_method'}
+2024-03-25 23:47:26,027 ERROR frappe New Exception collected in error log
+Site: lib.localhost
+Form Dict: {'dt': 'Builder Page', 'dn': 'page-fca11', 'method': 'get_page_data', 'args': '{}', 'cmd': 'run_doc_method'}
+2024-03-25 23:49:04,053 ERROR frappe New Exception collected in error log
+Site: lib.localhost
+Form Dict: {'dt': 'Builder Page', 'dn': 'page-fca11', 'method': 'get_page_data', 'args': '{}', 'cmd': 'run_doc_method'}
+2024-03-25 23:49:44,998 ERROR frappe New Exception collected in error log
+Site: lib.localhost
+Form Dict: {'dt': 'Builder Page', 'dn': 'page-fca11', 'method': 'get_page_data', 'args': '{}', 'cmd': 'run_doc_method'}
+2024-03-25 23:49:57,077 ERROR frappe New Exception collected in error log
+Site: lib.localhost
+Form Dict: {'dt': 'Builder Page', 'dn': 'page-fca11', 'method': 'get_page_data', 'args': '{}', 'cmd': 'run_doc_method'}
+2024-03-25 23:50:11,556 ERROR frappe New Exception collected in error log
+Site: lib.localhost
+Form Dict: {'dt': 'Builder Page', 'dn': 'page-fca11', 'method': 'get_page_data', 'args': '{}', 'cmd': 'run_doc_method'}
+2024-03-25 23:52:22,110 ERROR frappe New Exception collected in error log
+Site: lib.localhost
+Form Dict: {'dt': 'Builder Page', 'dn': 'page-fca11', 'method': 'get_page_data', 'args': '{}', 'cmd': 'run_doc_method'}
+2024-03-25 23:53:03,237 ERROR frappe New Exception collected in error log
+Site: lib.localhost
+Form Dict: {'dt': 'Builder Page', 'dn': 'page-fca11', 'method': 'get_page_data', 'args': '{}', 'cmd': 'run_doc_method'}
+2024-03-25 23:54:21,785 ERROR frappe New Exception collected in error log
+Site: lib.localhost
+Form Dict: {'dt': 'Builder Page', 'dn': 'page-fca11', 'method': 'get_page_data', 'args': '{}', 'cmd': 'run_doc_method'}
+2024-03-25 23:58:21,003 ERROR frappe New Exception collected in error log
+Site: lib.localhost
+Form Dict: {'dt': 'Builder Page', 'dn': 'page-fca11', 'method': 'get_page_data', 'args': '{}', 'cmd': 'run_doc_method'}
+2024-03-25 23:58:43,377 ERROR frappe New Exception collected in error log
+Site: lib.localhost
+Form Dict: {'dt': 'Builder Page', 'dn': 'page-fca11', 'method': 'get_page_data', 'args': '{}', 'cmd': 'run_doc_method'}
+2024-03-25 23:58:54,921 ERROR frappe New Exception collected in error log
+Site: lib.localhost
+Form Dict: {'dt': 'Builder Page', 'dn': 'page-fca11', 'method': 'get_page_data', 'args': '{}', 'cmd': 'run_doc_method'}
+2024-03-25 23:59:19,227 ERROR frappe New Exception collected in error log
+Site: lib.localhost
+Form Dict: {'dt': 'Builder Page', 'dn': 'page-fca11', 'method': 'get_page_data', 'args': '{}', 'cmd': 'run_doc_method'}
+2024-03-25 23:59:35,191 ERROR frappe New Exception collected in error log
+Site: lib.localhost
+Form Dict: {'dt': 'Builder Page', 'dn': 'page-fca11', 'method': 'get_page_data', 'args': '{}', 'cmd': 'run_doc_method'}
+2024-03-25 23:59:48,274 ERROR frappe New Exception collected in error log
+Site: lib.localhost
+Form Dict: {'dt': 'Builder Page', 'dn': 'page-fca11', 'method': 'get_page_data', 'args': '{}', 'cmd': 'run_doc_method'}
+2024-03-26 00:00:20,287 ERROR frappe Error while inserting deferred Error Log record: (1406, "Data too long for column 'method' at row 1")
+Site: lib.localhost
+Form Dict: {}
+2024-03-26 00:00:53,263 ERROR frappe New Exception collected in error log
+Site: lib.localhost
+Form Dict: {'dt': 'Builder Page', 'dn': 'page-fca11', 'method': 'get_page_data', 'args': '{}', 'cmd': 'run_doc_method'}
+2024-03-26 00:01:19,337 ERROR frappe New Exception collected in error log
+Site: lib.localhost
+Form Dict: {'dt': 'Builder Page', 'dn': 'page-fca11', 'method': 'get_page_data', 'args': '{}', 'cmd': 'run_doc_method'}
+2024-03-26 00:01:46,019 ERROR frappe New Exception collected in error log
+Site: lib.localhost
+Form Dict: {'dt': 'Builder Page', 'dn': 'page-fca11', 'method': 'get_page_data', 'args': '{}', 'cmd': 'run_doc_method'}
+2024-03-26 00:01:54,252 ERROR frappe New Exception collected in error log
+Site: lib.localhost
+Form Dict: {'dt': 'Builder Page', 'dn': 'page-fca11', 'method': 'get_page_data', 'args': '{}', 'cmd': 'run_doc_method'}
+2024-03-26 00:03:45,563 ERROR frappe New Exception collected in error log
+Site: lib.localhost
+Form Dict: {'dt': 'Builder Page', 'dn': 'page-fca11', 'method': 'get_page_data', 'args': '{}', 'cmd': 'run_doc_method'}
+2024-03-26 00:04:13,235 ERROR frappe New Exception collected in error log
+Site: lib.localhost
+Form Dict: {'dt': 'Builder Page', 'dn': 'page-fca11', 'method': 'get_page_data', 'args': '{}', 'cmd': 'run_doc_method'}
+2024-03-27 11:18:50,266 ERROR frappe New Exception collected in error log
+Site: lib.localhost
+Form Dict: {'dt': 'Builder Page', 'dn': 'page-fca11', 'method': 'get_page_data', 'args': '{}', 'cmd': 'run_doc_method'}
+2024-03-27 11:19:07,539 ERROR frappe New Exception collected in error log
+Site: lib.localhost
+Form Dict: {'dt': 'Builder Page', 'dn': 'page-fca11', 'method': 'get_page_data', 'args': '{}', 'cmd': 'run_doc_method'}
+2024-03-27 11:19:21,077 ERROR frappe New Exception collected in error log
+Site: lib.localhost
+Form Dict: {'dt': 'Builder Page', 'dn': 'page-fca11', 'method': 'get_page_data', 'args': '{}', 'cmd': 'run_doc_method'}
+2024-03-27 11:26:45,506 ERROR frappe New Exception collected in error log
+Site: lib.localhost
+Form Dict: {'dt': 'Builder Page', 'dn': 'page-fca11', 'method': 'get_page_data', 'args': '{}', 'cmd': 'run_doc_method'}
+2024-03-27 11:26:52,046 ERROR frappe New Exception collected in error log
+Site: lib.localhost
+Form Dict: {'dt': 'Builder Page', 'dn': 'page-fca11', 'method': 'get_page_data', 'args': '{}', 'cmd': 'run_doc_method'}
+2024-03-27 11:27:18,348 ERROR frappe New Exception collected in error log
+Site: lib.localhost
+Form Dict: {'dt': 'Builder Page', 'dn': 'page-fca11', 'method': 'get_page_data', 'args': '{}', 'cmd': 'run_doc_method'}
+2024-03-27 11:27:51,889 ERROR frappe New Exception collected in error log
+Site: lib.localhost
+Form Dict: {'dt': 'Builder Page', 'dn': 'page-fca11', 'method': 'get_page_data', 'args': '{}', 'cmd': 'run_doc_method'}
+2024-03-27 11:28:53,375 ERROR frappe New Exception collected in error log
+Site: lib.localhost
+Form Dict: {'dt': 'Builder Page', 'dn': 'page-fca11', 'method': 'get_page_data', 'args': '{}', 'cmd': 'run_doc_method'}
+2024-03-27 11:29:42,172 ERROR frappe New Exception collected in error log
+Site: lib.localhost
+Form Dict: {'dt': 'Builder Page', 'dn': 'page-fca11', 'method': 'get_page_data', 'args': '{}', 'cmd': 'run_doc_method'}
+2024-03-27 11:30:14,468 ERROR frappe New Exception collected in error log
+Site: lib.localhost
+Form Dict: {'dt': 'Builder Page', 'dn': 'page-fca11', 'method': 'get_page_data', 'args': '{}', 'cmd': 'run_doc_method'}
+2024-03-27 11:30:40,919 ERROR frappe New Exception collected in error log
+Site: lib.localhost
+Form Dict: {'dt': 'Builder Page', 'dn': 'page-fca11', 'method': 'get_page_data', 'args': '{}', 'cmd': 'run_doc_method'}
+2024-03-27 11:31:14,576 ERROR frappe New Exception collected in error log
+Site: lib.localhost
+Form Dict: {'dt': 'Builder Page', 'dn': 'page-fca11', 'method': 'get_page_data', 'args': '{}', 'cmd': 'run_doc_method'}
+2024-03-27 11:31:25,971 ERROR frappe New Exception collected in error log
+Site: lib.localhost
+Form Dict: {'dt': 'Builder Page', 'dn': 'page-fca11', 'method': 'get_page_data', 'args': '{}', 'cmd': 'run_doc_method'}
+2024-03-27 11:31:33,490 ERROR frappe New Exception collected in error log
+Site: lib.localhost
+Form Dict: {'dt': 'Builder Page', 'dn': 'page-fca11', 'method': 'get_page_data', 'args': '{}', 'cmd': 'run_doc_method'}
+2024-03-27 11:31:58,837 ERROR frappe New Exception collected in error log
+Site: lib.localhost
+Form Dict: {'dt': 'Builder Page', 'dn': 'page-fca11', 'method': 'get_page_data', 'args': '{}', 'cmd': 'run_doc_method'}
+2024-03-27 11:32:29,976 ERROR frappe New Exception collected in error log
+Site: lib.localhost
+Form Dict: {'dt': 'Builder Page', 'dn': 'page-fca11', 'method': 'get_page_data', 'args': '{}', 'cmd': 'run_doc_method'}
+2024-03-27 11:33:08,036 ERROR frappe New Exception collected in error log
+Site: lib.localhost
+Form Dict: {'dt': 'Builder Page', 'dn': 'page-fca11', 'method': 'get_page_data', 'args': '{}', 'cmd': 'run_doc_method'}
+2024-03-27 11:34:41,723 ERROR frappe New Exception collected in error log
+Site: lib.localhost
+Form Dict: {'dt': 'Builder Page', 'dn': 'page-fca11', 'method': 'get_page_data', 'args': '{}', 'cmd': 'run_doc_method'}
+2024-03-27 11:34:55,647 ERROR frappe New Exception collected in error log
+Site: lib.localhost
+Form Dict: {'dt': 'Builder Page', 'dn': 'page-fca11', 'method': 'get_page_data', 'args': '{}', 'cmd': 'run_doc_method'}
+2024-03-27 11:35:17,066 ERROR frappe New Exception collected in error log
+Site: lib.localhost
+Form Dict: {'dt': 'Builder Page', 'dn': 'page-fca11', 'method': 'get_page_data', 'args': '{}', 'cmd': 'run_doc_method'}
+2024-03-27 11:36:04,280 ERROR frappe New Exception collected in error log
+Site: lib.localhost
+Form Dict: {'dt': 'Builder Page', 'dn': 'page-fca11', 'method': 'get_page_data', 'args': '{}', 'cmd': 'run_doc_method'}
+2024-03-29 22:00:40,391 ERROR frappe New Exception collected in error log
+Site: lib.localhost
+Form Dict: {}
+2024-04-28 23:34:53,704 ERROR frappe New Exception collected in error log
+Site: lib.localhost
+Form Dict: {'page': 'page-fca11', 'cmd': 'builder.builder.doctype.builder_page.builder_page.get_page_preview_html'}
+2024-04-28 23:35:21,731 ERROR frappe New Exception collected in error log
+Site: lib.localhost
+Form Dict: {'page': 'page-fca11', 'cmd': 'builder.builder.doctype.builder_page.builder_page.get_page_preview_html'}
+2024-04-28 23:36:04,994 ERROR frappe New Exception collected in error log
+Site: lib.localhost
+Form Dict: {'page': 'page-fca11', 'cmd': 'builder.builder.doctype.builder_page.builder_page.get_page_preview_html'}
+2024-05-03 18:34:35,294 ERROR frappe New Exception collected in error log
+Site: lib.localhost
+Form Dict: {'dt': 'Builder Page', 'dn': 'page-dc3da', 'method': 'get_page_data', 'args': '{}', 'cmd': 'run_doc_method'}
+2024-05-03 18:34:53,792 ERROR frappe New Exception collected in error log
+Site: lib.localhost
+Form Dict: {'dt': 'Builder Page', 'dn': 'page-dc3da', 'method': 'get_page_data', 'args': '{}', 'cmd': 'run_doc_method'}
+2024-05-03 18:36:49,892 ERROR frappe New Exception collected in error log
+Site: lib.localhost
+Form Dict: {'dt': 'Builder Page', 'dn': 'page-dc3da', 'method': 'get_page_data', 'args': '{}', 'cmd': 'run_doc_method'}
+2024-05-03 18:36:59,575 ERROR frappe New Exception collected in error log
+Site: lib.localhost
+Form Dict: {'dt': 'Builder Page', 'dn': 'page-dc3da', 'method': 'get_page_data', 'args': '{}', 'cmd': 'run_doc_method'}
+2024-05-03 18:37:14,964 ERROR frappe New Exception collected in error log
+Site: lib.localhost
+Form Dict: {'dt': 'Builder Page', 'dn': 'page-dc3da', 'method': 'get_page_data', 'args': '{}', 'cmd': 'run_doc_method'}
+2024-05-03 18:38:00,161 ERROR frappe New Exception collected in error log
+Site: lib.localhost
+Form Dict: {'dt': 'Builder Page', 'dn': 'page-dc3da', 'method': 'get_page_data', 'args': '{}', 'cmd': 'run_doc_method'}
+2024-05-03 18:40:42,099 ERROR frappe New Exception collected in error log
+Site: lib.localhost
+Form Dict: {'dt': 'Builder Page', 'dn': 'page-dc3da', 'method': 'get_page_data', 'args': '{}', 'cmd': 'run_doc_method'}
+2024-05-03 18:41:01,794 ERROR frappe New Exception collected in error log
+Site: lib.localhost
+Form Dict: {'dt': 'Builder Page', 'dn': 'page-dc3da', 'method': 'get_page_data', 'args': '{}', 'cmd': 'run_doc_method'}
+2024-05-03 18:41:53,208 ERROR frappe New Exception collected in error log
+Site: lib.localhost
+Form Dict: {'dt': 'Builder Page', 'dn': 'page-dc3da', 'method': 'get_page_data', 'args': '{}', 'cmd': 'run_doc_method'}
+2024-05-03 18:42:00,453 ERROR frappe New Exception collected in error log
+Site: lib.localhost
+Form Dict: {'dt': 'Builder Page', 'dn': 'page-dc3da', 'method': 'get_page_data', 'args': '{}', 'cmd': 'run_doc_method'}
+2024-05-03 18:42:06,470 ERROR frappe New Exception collected in error log
+Site: lib.localhost
+Form Dict: {'dt': 'Builder Page', 'dn': 'page-dc3da', 'method': 'get_page_data', 'args': '{}', 'cmd': 'run_doc_method'}
+2024-05-03 18:42:11,363 ERROR frappe New Exception collected in error log
+Site: lib.localhost
+Form Dict: {'dt': 'Builder Page', 'dn': 'page-dc3da', 'method': 'get_page_data', 'args': '{}', 'cmd': 'run_doc_method'}
+2024-05-03 18:42:35,154 ERROR frappe New Exception collected in error log
+Site: lib.localhost
+Form Dict: {'dt': 'Builder Page', 'dn': 'page-dc3da', 'method': 'get_page_data', 'args': '{}', 'cmd': 'run_doc_method'}
